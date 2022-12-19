@@ -19,4 +19,4 @@ all of the Blood Group information, Blood cells, Blood supply, and Donor list.
 
 ## Screenshots
 
-![BloodHub](https://drive.google.com/file/d/1JYgDr9odMF55GMy9N1zgg_e1UYLr8XNs/view?usp=sharing)
+![BloodHub](https://drive.google.com/file/d/1JYgDr9odMF55GMy9N1zgg_e1UYLr8XNs/view)
