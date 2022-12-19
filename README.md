@@ -1,3 +1,4 @@
+
 # BloodHub
 
 The number of persons who are in need of blood is increasing in large number day by day. In order to 
@@ -17,6 +18,13 @@ all of the Blood Group information, Blood cells, Blood supply, and Donor list.
 
 
 
-## Screenshots
+## Installation
 
-![BloodHub](https://drive.google.com/file/d/1JYgDr9odMF55GMy9N1zgg_e1UYLr8XNs/view)
+For Running Application follow this steps 
+
+```bash
+cd BloodBankSyatem-Django
+pip install -r requirements.txt
+python manage.py runserver
+```
+    
